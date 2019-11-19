@@ -13,4 +13,4 @@
 
 ## Write-up
 
-The first part of the job was finding the star tables. After some intenese googling (and a couple of hints from the autohor) i found [this](https://github.com/chrislgarry/Apollo-11/) repo which contained [this](https://github.com/chrislgarry/Apollo-11/blob/master/Comanche055/STAR_TABLES.agc) file. I found the distance between all of the different "stars" and converted the numbers into letters and voilá i got the flag: ritsec{leap_4_th3_stars}. [This](LunarLander.py) is the script i wrote for finding the distancesgit 
+The first part of the job was finding the star tables. After some intenese googling (and a couple of hints from the autohor) i found [this](https://github.com/chrislgarry/Apollo-11/) repo which contained [this](https://github.com/chrislgarry/Apollo-11/blob/master/Comanche055/STAR_TABLES.agc) file. I found the distance between all of the different "stars" and converted the numbers into letters and voilá i got the flag: ritsec{leap_4_th3_stars}. [This](LunarLander.py) is the script i wrote for finding the distances
