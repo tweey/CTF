@@ -13,4 +13,4 @@
 
 ## Write-up
 
-( Not yet )
+Googled bug cipher and got [this](https://www.dcode.fr/gold-bug-poe) decoder. Pasted the code in and got the flag ritsec{POEWASTHEGOAT}
